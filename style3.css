@@ -1,0 +1,8 @@
+.section {
+display: flex;
+width:1000px;
+align-items: center;
+margin: auto;
+margin-top: 50px;
+gap: 40px;
+}

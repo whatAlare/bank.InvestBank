@@ -1,0 +1,123 @@
+body{
+    max-width: 1920px;
+    font-family: sans-serif;
+}
+.t-BANK {
+    margin-left:60px ;
+    margin-bottom: 0;
+    display: flex;
+    font-size: x-large;
+}
+.text-verx {
+    text-align: center;
+    align-items: center;
+    font-size: x-large;
+    margin-top: 90px;
+}
+p{
+    margin-top: 0;
+}
+.vozm{
+    margin-bottom: 0;
+}
+.text-niz-png {
+display: flex;
+align-items: center;
+justify-content: center;
+margin-top: 35px;
+font-size: larger ;
+}
+.back{
+    position: absolute;
+    bottom: -200px;
+    left: 0;
+    right: 0;
+    display: flex;
+    justify-content: space-between;
+    z-index: -999;
+}
+.niz {
+display: flex;
+align-items: center;
+justify-content: center;
+margin-top: 150px;
+font-size: larger ;
+}
+.img-vse {
+    width: max-content;
+    margin: auto;
+}
+.niz2 {
+width: max-content;
+padding: 12px;
+border-radius: 100px;
+border: 4px rgb(239, 49, 38) solid;
+background-color: rgb(255, 32, 20);
+margin: 20px;
+}
+.box-right-icon{
+    display: flex;
+    justify-content: space-between;
+}
+.niz-png {
+    width: 100%;
+}
+.otziv {
+    box-sizing: border-box;
+width: 100%;
+height: 100%;
+outline: none;
+font-size: 22px;
+margin-top: 5px;
+padding-left: 20px;
+padding-right: 38px;
+color: rgb(0, 0, 0);
+}
+.block-vozm{
+
+    position: relative;
+}
+.b-bank{
+    margin-top: 0;
+}
+.header{
+    background-color: rgb(112, 112, 112);
+    color: white;
+    padding: 15px 20px;
+    display: flex;
+    align-items: center;
+
+}
+.glavnai {
+    margin-left: 50px;
+    color: white;
+    text-decoration: none;
+}
+.footer {
+    height: 300px;
+    background-color: rgb(112, 112, 112);
+    margin-top: 60px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.icon2 {
+    color: white;
+    padding: 30px;
+}
+.right {
+    font-size: large;
+    margin-top:30px;
+margin-right: 5px;
+}
+.wihod {
+justify-content: space-between;
+}
+.exit{
+    flex-grow: 1;
+    text-align: end;
+}
+.links{
+    display: flex;
+    align-items: center;
+}
